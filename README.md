@@ -1,6 +1,6 @@
 # BeginnerWebDev
 
-Welcome, this is a repository of all my small projects that I followed in my online front-end bootcamp.
+Welcome, this is a repository of all my small projects that I created in my online front-end bootcamp.
 
 I'll be filling out these tables as I go with the names, Languages, and source link.
 
